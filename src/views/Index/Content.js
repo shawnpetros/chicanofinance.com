@@ -11,7 +11,7 @@ function Content() {
             <h1>Finance</h1>
             <br />
             <h6 className="bold-four">
-             LatinX parent's aren't the best at talking about hard things, so I'm compiling a repository of abuela's advice, will less chancla. Join me to hear more about it!
+             LatinX parent's aren't the best at talking about hard things, so I'm compiling a repository of abuela's advice, with less chancla. Join me to hear more about it!
             </h6>
             <br />
             <h6><button className="btn btn-dark start start-two">Coming Soon!</button></h6>

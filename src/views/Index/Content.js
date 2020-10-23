@@ -6,6 +6,7 @@ function Content() {
       <div className="container content">
         <div className="row">
           <div className="col-sm-3 talk">
+
             <h1>Chicano</h1>
             <h1>Finance</h1>
             <br />
@@ -14,6 +15,7 @@ function Content() {
             </h6>
             <br />
             <h6><button className="btn btn-dark start start-two">Coming Soon!</button></h6>
+          
           </div>
           <div className="col-sm-9 showcase-img">
             {/* <div className="circle"></div> */}

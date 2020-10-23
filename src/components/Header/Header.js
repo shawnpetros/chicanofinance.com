@@ -1,12 +1,11 @@
-import React from "react";
+import React from 'react';
 
-import Nav from "../Nav/Nav";
+import Nav from '../Nav/Nav';
 
 function Header() {
-    return (
-        <Nav />
-    );
-
+  return (
+    <Nav />
+  );
 }
 
 export default Header;

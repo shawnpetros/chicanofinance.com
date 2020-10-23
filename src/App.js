@@ -1,16 +1,12 @@
+import React from 'react';
+// import logo from './logo.svg';
 import './App.css';
 
-import logo from './logo.svg';
+import Index from './views/Index/Index';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Chicano Finance</h1>
-        <p>It's abuela's advice, with less chancla...</p>
-        <p>Coming soon...</p>
-      </header>
-    </div>
+    <Index />
   );
 }
 
